@@ -1,0 +1,40 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+.top-container {
+  background-color: #3367d6;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 20px;
+}
+.input-container {
+  margin-left: 300px;
+  background-color: #2850a7;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px;
+  width: 300px;
+}
+.input-element {
+  background-color: #2850a7;
+  border-width: 0px;
+  outline: none;
+  width: 250px;
+}
+.search-element {
+  background-color: #2850a7;
+}
+.list-container {
+  list-style-type: none;
+  margin: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  box-shadow: 10px;
+  padding: 20px;
+  color: #000000;
+}
